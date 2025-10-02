@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Kiara
+### Hiiiiii, my name is Kiara
 #### I am a full time Data Scientist and part time Graduate Student.
 My GitHub serves as a place to document my growth in skills since starting my graduate program in Analytics. It will include my coursework along with certificates I did to help aid me in succeeding in my classes.
 
